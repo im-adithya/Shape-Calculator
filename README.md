@@ -41,7 +41,7 @@ rect.set_height(8)
 rect.set_width(16)
 print(rect.get_amount_inside(sq))
 ```
-That code should return:
+That code will return:
 ```
 50
 26
